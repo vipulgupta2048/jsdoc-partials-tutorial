@@ -1,6 +1,6 @@
 # Jsdoc-partials-tutorial
 
-An example repository to demonstrate how to use partials in [Jsdoc](https://github.com/jsdoc/jsdoc) for the Notes on building docs with JsDoc custom partials post on [Mixster](https://mixstersite.wordpress.com/).
+An example repository to demonstrate how to use partials in [Jsdoc](https://github.com/jsdoc/jsdoc) for the [Notes on building docs with JsDoc custom partials](https://mixstersite.wordpress.com/2022/03/11/notes-on-building-docs-with-jsdoc-custom-partials/) post on [Mixster](https://mixstersite.wordpress.com/).
 
 
 ### How to use? 
